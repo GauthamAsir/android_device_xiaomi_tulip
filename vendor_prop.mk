@@ -388,4 +388,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.mk.maintainer=rama982
+    ro.rr.maintainer=Gautham
